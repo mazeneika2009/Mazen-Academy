@@ -1,0 +1,36 @@
+[2026-06-21T07:04:15.207Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_SR6W4TX5K","userId":"u_dwm02l90o","gardenId":"g_frontend"}
+[2026-06-21T07:50:58.312Z] ACTION: USER_ACCESS_TOGGLE | DETAILS: {"userId":"u_dwm02l90o","hasPaidAccess":false}
+[2026-06-21T07:52:30.491Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_frontend","titleEn":"React & TypeScript Frontend","category":"Frontend"}
+[2026-06-21T08:24:25.750Z] ACTION: PAYMENT_REJECT | DETAILS: {"transactionId":"TXN_EG_TOSL56VWR","userId":"u_dwm02l90o","reason":"sorry"}
+[2026-06-21T08:24:38.556Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_VCWT31FEN","userId":"u_dwm02l90o","gardenId":"g_frontend"}
+[2026-06-21T09:56:22.089Z] ACTION: QUIZ_QUESTION_UPDATE | DETAILS: {"id":"qq_u03mvoa4u","seedId":"s_f_1"}
+[2026-06-21T17:36:44.309Z] ACTION: QUIZ_QUESTION_UPDATE | DETAILS: {"id":"qq_g5x1m0xyu","seedId":"s_f_3"}
+[2026-06-22T07:10:33.684Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"","titleEn":"learn html ","category":"React"}
+[2026-06-22T07:14:35.691Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"","gardenId":"g_fgtzs5q9t","titleEn":"introduction"}
+[2026-06-22T07:18:16.055Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_OV2JCWK4V","userId":"u_dwm02l90o","gardenId":"g_fgtzs5q9t"}
+[2026-06-22T07:34:22.932Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"","gardenId":"g_fgtzs5q9t","titleEn":"Elements And Browser"}
+[2026-06-22T07:36:35.084Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"","gardenId":"g_fgtzs5q9t","titleEn":"First Project And First Page"}
+[2026-06-22T07:43:42.699Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_b_1","gardenId":"g_backend","titleEn":"Python Basics & FastAPI Setup"}
+[2026-06-22T07:44:16.695Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_b_2","gardenId":"g_backend","titleEn":"RESTful API Design & Routing"}
+[2026-06-22T07:44:48.302Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_b_3","gardenId":"g_backend","titleEn":"Database Modeling with SQLAlchemy"}
+[2026-06-22T07:46:03.397Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_f_1","gardenId":"g_frontend","titleEn":"React 19 Fundamentals & JSX"}
+[2026-06-22T07:46:39.668Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_f_2","gardenId":"g_frontend","titleEn":"Hooks Deep Dive: useState, useEffect, useRef"}
+[2026-06-22T07:47:16.244Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_f_3","gardenId":"g_frontend","titleEn":"TypeScript with React: Typed Components"}
+[2026-06-22T07:47:42.813Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_f_4","gardenId":"g_frontend","titleEn":"Tailwind CSS & Responsive Design"}
+[2026-06-22T07:48:32.638Z] ACTION: CMS_ENTITY_DELETE | DETAILS: {"type":"garden","id":"g_system"}
+[2026-06-22T08:15:08.307Z] ACTION: CMS_ENTITY_DELETE | DETAILS: {"type":"garden","id":"g_system"}
+[2026-06-22T09:00:35.223Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_2j32gpq6j","gardenId":"g_h4r7t9w1q","titleEn":"SEO Fundamentals - How Search Engines Work"}
+[2026-06-22T09:09:48.806Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_PX6B4PDFV","userId":"u_qv3ougnst","gardenId":"g_h4r7t9w1q"}
+[2026-06-22T09:13:30.639Z] ACTION: QUERY_ANSWERED | DETAILS: {"queryId":"q_8ze0s0ye6"}
+[2026-06-22T09:29:02.497Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_CGIO7ICI2","userId":"u_qv3ougnst","gardenId":"g_k7m3x9p2r"}
+[2026-06-22T09:29:05.257Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_F6R89KRI7","userId":"u_qv3ougnst","gardenId":"g_b5n8d2c1f"}
+[2026-06-22T10:08:23.378Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_b5n8d2c1f","titleEn":"Programming HTML with Real Videos","category":"Programming"}
+[2026-06-22T10:25:51.148Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_b5n8d2c1f","titleEn":"Programming HTML with Real Videos","category":"Programming"}
+[2026-06-22T10:26:11.748Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_h4r7t9w1q","titleEn":"Marketing with Real Videos","category":"Marketing"}
+[2026-06-22T10:26:27.225Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_k7m3x9p2r","titleEn":"English with Real Videos","category":"Languages"}
+[2026-06-22T20:30:13.903Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_b5n8d2c1f","titleEn":"Programming HTML with Real Videos","category":"Programming"}
+[2026-06-23T18:15:57.849Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_b5n8d2c1f","titleEn":"Programming HTML with Real Videos","category":"Programming"}
+[2026-06-23T18:16:20.850Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_h4r7t9w1q","titleEn":"Marketing with Real Videos","category":"Marketing"}
+[2026-06-23T20:37:46.302Z] ACTION: QUIZ_QUESTION_UPDATE | DETAILS: {"id":"qq_gcjmeqqot","seedId":"s_0j7w3wruj"}
+[2026-06-23T21:01:55.490Z] ACTION: QUIZ_QUESTION_DELETE | DETAILS: {"id":"qq_gcjmeqqot"}
+[2026-06-27T20:19:15.022Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_b5n8d2c1f","titleEn":"Programming HTML with Real Videos","category":"Programming"}

@@ -1,0 +1,22 @@
+[2026-06-25T04:49:32.251Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"id":"s_h_7","gardenId":"g_b5n8d2c1f","titleEn":"Tables & Tabular Data"}
+[2026-06-25T06:21:33.343Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_h4r7t9w1q","titleEn":"Marketing with Real Videos","category":"Marketing"}
+[2026-06-25T06:21:43.090Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_k7m3x9p2r","titleEn":"English with Real Videos","category":"Languages"}
+[2026-06-26T02:08:44.606Z] ACTION: USER_ACCESS_TOGGLE | DETAILS: {"userId":"u_0xosos8w3","paidGardens":[null]}
+[2026-06-26T02:28:48.549Z] ACTION: PAYMENT_REJECT | DETAILS: {"transactionId":"TXN_EG_W6BRVXRAU","userId":"u_0xosos8w3","reason":"Admin action"}
+[2026-06-26T02:30:20.592Z] ACTION: USER_ACCESS_TOGGLE | DETAILS: {"userId":"u_0xosos8w3","paidGardens":[]}
+[2026-06-26T02:39:42.034Z] ACTION: PAYMENT_REJECT | DETAILS: {"transactionId":"TXN_EG_1HOGVXFSW","userId":"u_0xosos8w3","reason":"6666"}
+[2026-06-26T02:44:19.348Z] ACTION: PAYMENT_REJECT | DETAILS: {"transactionId":"TXN_EG_57N9BIRUN","userId":"u_0xosos8w3","reason":"kkkkkkkkk"}
+[2026-06-26T02:53:57.830Z] ACTION: PAYMENT_REJECT | DETAILS: {"transactionId":"TXN_EG_5E1PJFW71","userId":"u_0xosos8w3","reason":"g.ll'"}
+[2026-06-26T02:54:41.791Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_C89BL177A","userId":"u_0xosos8w3","gardenId":"g_k7m3x9p2r"}
+[2026-06-26T03:00:38.222Z] ACTION: USER_ACCESS_TOGGLE | DETAILS: {"userId":"u_0xosos8w3","paidGardens":["g_k7m3x9p2r",null]}
+[2026-06-26T03:02:25.818Z] ACTION: PAYMENT_REJECT | DETAILS: {"transactionId":"TXN_EG_PBABUN20N","userId":"u_0xosos8w3","reason":"nnn"}
+[2026-06-26T03:07:56.245Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_G59L4ZFEZ","userId":"u_0xosos8w3","gardenId":"g_h4r7t9w1q"}
+[2026-06-26T03:34:47.009Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"titleEn":"","category":""}
+[2026-06-26T03:34:52.669Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"gardenId":"g_28w6g4g1b","titleEn":""}
+[2026-06-26T03:34:55.132Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"gardenId":"g_28w6g4g1b","titleEn":""}
+[2026-06-26T03:34:58.284Z] ACTION: CMS_SEED_UPDATE | DETAILS: {"gardenId":"g_28w6g4g1b","titleEn":""}
+[2026-06-26T03:35:06.035Z] ACTION: CMS_ENTITY_DELETE | DETAILS: {"type":"garden","id":"g_28w6g4g1b"}
+[2026-06-26T03:37:15.622Z] ACTION: USER_ACCESS_TOGGLE | DETAILS: {"userId":"u_g39ltxst5","paidGardens":[null]}
+[2026-06-26T05:03:33.813Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_h4r7t9w1q","titleEn":"Marketing with Real Videos","category":"Marketing"}
+[2026-06-26T05:03:43.921Z] ACTION: CMS_GARDEN_UPDATE | DETAILS: {"id":"g_k7m3x9p2r","titleEn":"English with Real Videos","category":"Languages"}
+[2026-06-26T05:18:32.616Z] ACTION: PAYMENT_APPROVE | DETAILS: {"transactionId":"TXN_EG_BNQUDZCTV","userId":"u_d768b8j6j","gardenId":"g_h4r7t9w1q"}
